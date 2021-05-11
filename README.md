@@ -1,4 +1,4 @@
-alfred-track-package
+Track Package
 ====================
 
 Easily track a package via UPS, FedEx, USPS, or DHL.
@@ -12,5 +12,4 @@ Usage
 -----
 
 The workflow uses one multiple keyword: "ups", "fedex", "usps", & "dhl".
-
-To look up tracking for a package, type a keyword followed by a space and then the tracking code.
+To look up tracking for a package, type a keyword followed by the tracking code.
